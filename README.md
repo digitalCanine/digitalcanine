@@ -21,5 +21,5 @@ nothing here is polished. it works on my machine.
 
 ---
 
-<img src="https://github-stats-extended.vercel.app/api?username=digitalCanine&hide=stars,commits,prs,issues,contribs&hide_border=true" height="150"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=digitalCanine&layout=compact&hide_border=true" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api?username=digitalCanine&theme=transparent&hide=stars,commits,prs,issues,contribs&hide_border=true" height="150"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=digitalCanine&theme=transparent&layout=compact&hide_border=true" height="150"/>
