@@ -1,7 +1,7 @@
 ## digitalCanine
 
-linux, security, and whatever i feel like breaking this week.
-nothing here is polished. it works on my machine.
+linux security, and whatever i feel like breaking lol
+works on my machine, dont know if it will in yours (it should)
 
 ### Imaginary Ecosystem
 
